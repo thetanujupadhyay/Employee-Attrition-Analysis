@@ -1,0 +1,6 @@
+BusinessUnit,DepartmentType,TotalEmployees,AttritionRate,PrimaryIssue,ActionRequired
+NEL,Production,203,19.21%,Voluntary Departures,Retention Strategy
+BPC,Production,200,19.0%,Voluntary Departures,Retention Strategy
+TNS,Production,200,17.0%,Voluntary Departures,Retention Strategy
+MSC,IT/IS,40,15.0%,Involuntary Terminations,Performance Review
+Sales,Various,~200,0-3%,Minimal Attrition,Best Practice Model
