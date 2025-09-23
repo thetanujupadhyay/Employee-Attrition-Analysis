@@ -52,6 +52,7 @@
 ---
 
 ## 📁 Project Structure
+```
 ├── sql-queries/
 │   ├── 01-overall-analysis.sql      # Company-wide attrition metrics
 │   ├── 02-department-analysis.sql   # Department-level risk identification
@@ -64,7 +65,7 @@
 ├── documentation/
 │   └── business-recommendations.md  # Strategic action plan
 └── README.md                        # This file
-
+```
 ---
 
 ## 🎯 Business Recommendations
@@ -137,7 +138,7 @@ This project demonstrates advanced SQL analytics capabilities for solving real b
 
 ## 📞 Contact & Portfolio
 
-**[Tanuj Upadhyay]** - Data Analyst  
+**[Tanuj Upadhyay]** - Data-Driven Product Professional  
 📧 **[tanujupadhyayofficial@gmail.com]**  
 💼 **[linkedin.com/in/thetanujupadhyay/]**  
 
@@ -151,4 +152,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Last Updated: 18/09/2025*
+*Last Updated: 23/09/2025*
