@@ -1,0 +1,7 @@
+EmpID,Department,BusinessUnit,RiskScore,RiskLevel,RecommendedAction
+EMP001,Production,NEL,6,HIGH RISK,Immediate Retention Meeting
+EMP002,Production,BPC,6,HIGH RISK,Immediate Retention Meeting
+EMP003,IT/IS,MSC,5,MEDIUM RISK,Monitor and Support
+EMP004,Production,TNS,6,HIGH RISK,Compensation Review
+EMP005,IT/IS,PYZ,5,MEDIUM RISK,Skills Assessment
+[PRIVACY_NOTE],Additional 20 employees,Various,4-6,MEDIUM-HIGH,Individual Action Plans
