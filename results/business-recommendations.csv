@@ -1,0 +1,9 @@
+Priority,Category,Recommendation,Department,Timeline,Owner,Success_Metric
+1,URGENT,Compensation benchmarking study,Production,30 days,HR Director,Reduce attrition by 5%
+1,URGENT,Management training program,Production,60 days,L&D Manager,Improve satisfaction scores
+2,HIGH,Review IT hiring criteria,IT/IS,45 days,IT Director,Reduce involuntary terminations
+2,HIGH,Implement IT mentorship program,IT/IS,90 days,IT Manager,Increase retention rate
+3,IMMEDIATE,Schedule retention meetings,All High-Risk,15 days,Direct Managers,Retain 20+ of 25 employees
+3,IMMEDIATE,Develop individual retention plans,All High-Risk,30 days,HR Business Partners,Personalized action plans
+4,MEDIUM,Document Sales best practices,Sales,60 days,Sales Director,Create playbook
+4,MEDIUM,Pilot Sales practices in other depts,Production IT,120 days,Department Heads,Measurable improvement
